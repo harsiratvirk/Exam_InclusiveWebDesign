@@ -1,5 +1,9 @@
-# Inclusive Web Design - Exam 2023
-<h2>Create a website with 4 pages</h2>
+# Exam_Inclusive Web Design
+**Examination in DATA1200 - Inclusive Web Design**
+
+Grade: A
+
+<h2>Task: Create a website with 4 pages</h2>
 
 <h3>Theme: An activity or particular space at OsloMet</h3>
 <ul>
