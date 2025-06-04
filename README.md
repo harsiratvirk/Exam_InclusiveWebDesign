@@ -1,7 +1,11 @@
 # Exam_Inclusive Web Design
 **Examination in DATA1200 - Inclusive Web Design**
 
-Grade: A
+**Grade**: A
+
+**Form of assessment**: Home exam
+
+**Date**: 22/11/2023
 
 https://harsiratvirk.github.io/Exam_InclusiveWebDesign/
 
